@@ -34,7 +34,7 @@
 $ lsb_release -a  
 ``` 
 Donne ce résultat: 
-~~~csh
+~~~sh
 No LSB modules are available.
 Distributor ID:     Ubuntu   
 Description:        Ubuntu 18.04.3 LTS   
